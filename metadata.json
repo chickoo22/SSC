@@ -1,0 +1,6 @@
+{
+  "name": "Maharashtra SSC Hub",
+  "description": "Maharashtra Board SSC Std 10 Board Exam Preparation, Curriculum Resources, and Past Papers",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
